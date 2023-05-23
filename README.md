@@ -11,8 +11,8 @@ Este curso explora os princípios e práticas da engenharia de software, incluin
 ### Banco de Dados
 Este curso abrange a teoria e prática de bancos de dados, incluindo modelagem de dados, linguagem SQL, gerenciamento de transações e otimização de consultas.
 
-### Engenharia de Usabilidade
-Este curso ensina como projetar interfaces de usuário intuitivas e eficientes, com foco na experiência do usuário.
+### Estrutura de Dados em C
+Esta matéria ensina as estruturas de dados fundamentais em C, incluindo listas, pilhas, filas e árvores.
 
 ## Por que escolhi essas 4 matérias?
 
