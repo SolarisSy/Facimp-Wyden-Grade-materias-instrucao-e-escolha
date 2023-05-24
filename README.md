@@ -45,8 +45,8 @@ Além disso, essa combinação de matérias oferece uma vantagem competitiva no 
 Quanto aos salários, a área de desenvolvimento de software é conhecida por oferecer remunerações atrativas. Profissionais qualificados nessa área têm a oportunidade de ganhar salários competitivos e desfrutar de benefícios adicionais, como oportunidades de crescimento na carreira, flexibilidade de trabalho e uma demanda constante por seus conhecimentos.
 
 Em resumo, escolher essa combinação de matérias em seu curso de sistemas de informação proporcionará aos alunos uma aprendizagem abrangente em desenvolvimento web, engenharia de software, banco de dados e engenharia de usabilidade. Essas habilidades são essenciais para se destacar no mercado de trabalho, garantir bons salários e contribuir para o sucesso de projetos de software e sistemas de informação.
-<div width="64px">
-  
-  [![Clique aqui para conhecer todas as matérias disponíveis](https://github.com/SolarisSy/Facimp-Wyden-Grade-materias-instrucao-e-escolha/blob/main/image/bookLogo.svg)](https://github.com/SolarisSy/Facimp-Wyden-Grade-materias-instrucao-e-escolha/blob/main/Todas%20as%20mat%C3%A9rias.md)
-  
-</div>
+
+## Para acessar todas matérias clique no livro:
+<a href="https://github.com/SolarisSy/Facimp-Wyden-Grade-materias-instrucao-e-escolha/blob/main/Todas%20as%20mat%C3%A9rias.md">
+  <img align="left" alt="SolarisSy's" width="64px" src="https://github.com/SolarisSy/Facimp-Wyden-Grade-materias-instrucao-e-escolha/blob/main/image/bookLogo.svg" />
+</a>
