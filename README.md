@@ -31,8 +31,8 @@ O conhecimento de bancos de dados é fundamental em praticamente todas as aplica
 
 Com habilidades em banco de dados, os alunos estarão preparados para trabalhar com grandes volumes de informações, armazenar dados de forma estruturada e garantir a integridade dos dados. Profissionais especializados em bancos de dados são altamente requisitados, e salários competitivos são oferecidos para aqueles que dominam essa área.
 
-### Engenharia de Usabilidade
-A experiência do usuário (UX) é uma consideração essencial no desenvolvimento de qualquer aplicação ou sistema. Essa matéria ensina os princípios e técnicas para projetar interfaces de usuário intuitivas e eficientes. Os alunos aprenderão a criar designs centrados no usuário, realizar testes de usabilidade e analisar feedbacks para aprimorar a experiência do usuário.
+### Estrutura de Dados em C
+Esta matéria ensina as estruturas de dados fundamentais em C, incluindo listas, pilhas, filas e árvores, essêncial para passar em entrevistas de emprego que testam sua capacidade de lógica em exames práticos, entender a estrutura de um software em geral, dominando os métodos mais lógicos é possível construir aplicações eficientes de forma mais inteligente, casando bem com as demais matérias, principalmente em banco de dados aonde é necessário um conhecimento bem aprofundados de cálculos de gastos e também e técnicas de filtragem que grande parte das vezes podem envolver operações lógicas dos mais variados tipos.
 
 A engenharia de usabilidade é essencial para garantir que os produtos e serviços digitais atendam às necessidades e expectativas dos usuários. Ao aprender a projetar interfaces intuitivas e eficientes, os alunos serão capazes de criar experiências positivas para os usuários, aumentando a satisfação e a adoção dos produtos desenvolvidos.
 
